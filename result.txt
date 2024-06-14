@@ -1,0 +1,6 @@
+From: 台北
+To: 新竹
+Trip: 單程
+Date: 10-12-2023
+Time: 13:00:00
+Discount: 大學生
